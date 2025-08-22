@@ -1,2 +1,4 @@
-# intro-to-github-
-My first GitHub repository for PLTW Computer Science
+# My First GitHub Repository
+**Name**: Aadesyn Hatfield 
+**Class**: PLTW Computer Science
+**Date**: 8/22/2025
